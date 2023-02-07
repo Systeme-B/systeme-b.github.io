@@ -1,9 +1,7 @@
 # Etapes du brassage
-
 ###### Par infusion avec cuve de 50L
 
 ### Avant de brasser
-
 - [ ] Choisir une recette
 - [ ] Déterminer le volume de moût à obtenir (max 45L)
 - [ ] Calculer les quantités d'eau à utiliser
@@ -11,12 +9,10 @@
 - [ ] Pré remplir la feuille de brassage
 
 ### Le jour du brassage
-
 #### 1. Empatage
-
 - [ ] Faire chauffer l'eau d'empatâge
 - [ ] Concasser le grain
-- [ ] Préparer la marmite (filtre)
+- [ ] Préparer la cuve (filtre)
 - [ ] Verser le grain dans l'eau (ou l'inverse)
 - [ ] Bien mélanger le grain pour tout humidifier
 - [ ] Noter la température de début d'empatage et couvrir
@@ -26,7 +22,6 @@
 - [ ] Attendre la fin de l'empatage
 
 #### 2. Filtration et rinçage
-
 - [ ] Installer le fermenteur
 - [ ] Noter la température de fin d'empatage
 - [ ] Commencer à soutirer doucement dans le pichet
@@ -38,15 +33,14 @@
 - [ ] Noter le poids du liquide avant ébulition
 
 #### 3. Ebulition
-
 - [ ] Rincer la cuve et le filtre
-- [ ] Installer la cuve sur le réchaud 
+- [ ] Installer la cuve sur le réchaud
 - [ ] Verser le moût dans la cuve
 - [ ] Noter la densité avant ébulition
 - [ ] Allumer le réchaud sans couvrir la cuve
 - [ ] Préparer les houblons
 - [ ] Quand l'ébulition démarre, ajouter le houblon amérisant
-- [ ] Préparer le refroidisseur et le fermenteur
+- [ ] Préparer l'échangeur à plaques et le fermenteur
 - [ ] Attendre l'infusion du houblon amérisant
 - [ ] Ajouter le houblon aromatique
 - [ ] Attendre l'infusion du houblon aromatique
@@ -54,7 +48,6 @@
 - [ ] Eventuellement ajouter un second houblon aromatique hors flamme
 
 #### 4. Refroidissement
-
 - [ ] Diluer le moût si nécessaire (jusqu'à la densité souhaitée)
 - [ ] Bien oxygéner le moût (whirlpool)
 - [ ] Brancher la cuve au refroidisseur
@@ -70,16 +63,13 @@
 - [ ] Nettoyer le matériel
 
 ### Quelques jours avant la fin de fermentation
-
 ###### Houblonnage à froid (optionnel)
-
 - [ ] Peser les houblons
 - [ ] Ouvrir le bouchon du fermenteur
 - [ ] Verser les houblons dans le fermenteur
 - [ ] Bien sceller le fermenteur
 
 ### Mise en bouteille
-
 - [ ] Stériliser une cuve de resucrage
 - [ ] Stériliser les bouteilles propres
 - [ ] Transvaser dans la cuve de resucrage
