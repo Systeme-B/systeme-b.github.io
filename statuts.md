@@ -2,23 +2,32 @@
 ###### Rédigé par Chat GPT
 
 
-### Article 1 : Dénomination
-Il est constitué une association sans but lucratif régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour dénomination « La Bricole / Système B ».
+### Dénomination
+" La Bricole / Système B "
+
+### Forme
+
+Association Loi 1901 \
+L'association a des activités commerciales
 
 ### Article 2 : Siège social
-Le siège social est fixé à [adresse]. Il pourra être transféré par simple décision de l'Assemblée Générale.
+Bègles (33130)
 
 ### Article 3 : Objet
-L'association a pour objet de promouvoir la bière et sa production, notamment par l'organisation d'évènements à rayonnement local, et par la production de bière.
+Produire et vendre de la bière artisanale, organiser des évènements locaux autour de ce thème
 
 ### Article 4 : Moyens d'action
-Pour atteindre ses objectifs, l'association peut notamment :
-• Organiser des évènements dédiés à la bière, tels que des dégustations, des visites de brasseries, etc.
-• Sensibiliser les membres et le public à la culture de la bière et à son importance économique.
-• Favoriser les échanges entre les passionnés de bière.
-• Produire de la bière sous le nom de l'association.
+L’activité commerciale et les différentes actions de l’association permettent la réalisation concrète de cet objet. \
+L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+
+A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+• Produire de la bière entre membres \
+• Organiser des dégustations, visites de brasseries, ateliers pédagogiques entre autres\
+• Sensibiliser les membres et le public au brassage artisanal de bière et à son importance culturelle \
+
 ### Article 5 : Adhésion
-Tout individu ou entreprise partageant les objectifs de l'association peut devenir membre en remplissant une demande d'adhésion et en versant une contribution financière à prix libre.
+Prix libre
+Tout individu ou entreprise partageant les objectifs de l'association peut devenir membre en versant une contribution financière à prix libre.
 
 ### Article 6 : Assemblée Générale
 L'Assemblée Générale réunit les membres de l'association. Elle se tient au moins une fois par an et est convoquée par le Bureau.
