@@ -7,3 +7,5 @@ Les statuts sont [disponibles ici](./statuts.md)
 Notre méthode de brassage est [ici](./brassage.md)
 
 Le matériel est [ici](./materiel.md)
+
+Le journal de décisions est [ici](./decisions.md)
