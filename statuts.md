@@ -1,45 +1,50 @@
 # Statuts association bière
-###### Rédigé par Chat GPT
+###### Inspiré des statuts de l'association "L'échapée belle"
 
 
-### Dénomination
+## Dénomination
 " La Bricole / Système B "
 
-### Forme
+## Forme
+Association Loi 1901. \
+L'association a des activités commerciales.
 
-Association Loi 1901 \
-L'association a des activités commerciales
-
-### Article 2 : Siège social
+## Siège social
 Bègles (33130)
 
-### Article 3 : Objet
-Produire et vendre de la bière artisanale, organiser des évènements locaux autour de ce thème
+## Objet
+Produire et vendre de la bière artisanale, organiser des évènements locaux autour de ce thème.
 
-### Article 4 : Moyens d'action
+## Moyens d'action
 L’activité commerciale et les différentes actions de l’association permettent la réalisation concrète de cet objet. \
 L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
 
 A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-• Produire de la bière entre membres \
-• Organiser des dégustations, visites de brasseries, ateliers pédagogiques entre autres\
-• Sensibiliser les membres et le public au brassage artisanal de bière et à son importance culturelle \
 
-### Article 5 : Adhésion
-Prix libre
-Tout individu ou entreprise partageant les objectifs de l'association peut devenir membre en versant une contribution financière à prix libre.
+ - Produire de la bière entre membres \
+ - Organiser des dégustations, visites de brasseries, ateliers pédagogiques entre autres \
+ - Sensibiliser les membres et le public au brassage artisanal et à la dégustation de bière 
 
-### Article 6 : Assemblée Générale
-L'Assemblée Générale réunit les membres de l'association. Elle se tient au moins une fois par an et est convoquée par le Bureau.
+## Membres
 
-### Article 7 : Conseil d'Administration
-L'association est administrée par un Conseil d'Administration composé de [nombre] membres élus pour [durée]. Ce Conseil élit en son sein un Bureau composé de [fonctions].
+### Noyau
+Initialement le Noyau est composé des membres fondateurs.  
+Devenir membre du Noyau nécessite l'unanimité de la part des membres du Noyau.  
+La révocation d'un membre du Noyau se décide à l'unanimité moins sa voix.
 
-### Article 8 : Ressources
-Les ressources de l'association comprennent les contributions financières volontaires des membres, les recettes provenant de la production de bière, et les subventions éventuelles.
+### Adhérents
+L'adhésion est gratuite pour toute personne âgée de 18 ans minimum.  
+La révocation d'un adhérent peut se produire dans les conditions suivantes :
+ - sur demande de l'adhérent lui-même
+ - par inactivité, s'il n'a pas contacté l'association depuis un an
+ - par décision des membres du Noyau
 
-### Article 9 : Dissolution
-En cas de dissolution, l'Assemblée Générale désignera un ou plusieurs liquidateurs et déterminera les modalités de liquidation. Les éventuels biens restants seront attribués à une association poursuivant des objectifs similaires.
+### Pouvoirs
+Sauf mention contraire, Les membres du Noyau prennent à l'unanimité les décisions de fonctionnement interne de l'association.  
+Les décisions peuvent être prises par consultation écrite et notamment par voie électronique.
+Vis à vis des tiers, chaque membre du Noyau est investi des pouvoirs nécessaires pour agir en toutes circonstances au nom de l'association.  
 
-### Article 10 : Règlement intérieur
-Un règlement intérieur peut être établi par le Conseil d'Administration pour fixer les modalités d'application des statuts.
+## Journal de Décisions
+Le Journal de Décisions consigne les décisions prises par les membres de l'association.
+
+Il a notamment pour fonction de définir ce qui ne l'est pas dans les présents statuts, comme par exemple les arrivées et départs de membres du Noyau.
