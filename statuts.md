@@ -3,7 +3,7 @@
 
 
 ## Dénomination
-" La Bricole / Système B "
+Système B
 
 ## Forme
 Association Loi 1901. \
