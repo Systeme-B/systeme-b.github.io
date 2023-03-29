@@ -1,12 +1,12 @@
-# Statuts association bière
-###### Inspiré des statuts de l'association "L'échapée belle"
+# Statuts de l'association Système B
 
+---
 
 ## Dénomination
 Système B
 
 ## Forme
-Association Loi 1901. \
+Association Loi 1901.  
 L'association a des activités commerciales.
 
 ## Siège social
@@ -16,13 +16,13 @@ Bègles (33130)
 Produire et vendre de la bière artisanale, organiser des évènements locaux autour de ce thème.
 
 ## Moyens d'action
-L’activité commerciale et les différentes actions de l’association permettent la réalisation concrète de cet objet. \
+L’activité commerciale et les différentes actions de l’association permettent la réalisation concrète de cet objet.  
 L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
 
 A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
 
- - Produire de la bière entre membres \
- - Organiser des dégustations, visites de brasseries, ateliers pédagogiques entre autres \
+ - Produire de la bière entre membres  
+ - Organiser des dégustations, visites de brasseries, ateliers pédagogiques entre autres  
  - Sensibiliser les membres et le public au brassage artisanal et à la dégustation de bière 
 
 ## Membres
