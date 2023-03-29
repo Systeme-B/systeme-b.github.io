@@ -1,11 +1,11 @@
-# Projet d'association autour du brassage de bière
+# Association Système B
 
-On essaye de monter une association pour brasser entre amis et faire des évènements (ateliers, etc) autour de la bière
+Une association pour brasser et faire des évènements (ateliers, etc) autour de la bière entre amis et amateurs
 
 Les statuts sont [disponibles ici](./statuts.md)
 
-Notre méthode de brassage est [ici](./brassage.md)
+La liste du matériel est [ici](./materiel.md)
 
-Le matériel est [ici](./materiel.md)
+Notre méthode de brassage est [ici](./brassage.md)
 
 Le journal de décisions est [ici](./decisions.md)

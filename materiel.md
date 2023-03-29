@@ -1,6 +1,5 @@
 # Matériel pour brasser
-
-###### 50L en infusion
+###### Asso Système B
 
 ### Avant de brasser
 - [ ] Internet / Livre de recette

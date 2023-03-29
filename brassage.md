@@ -1,5 +1,5 @@
 # Etapes du brassage
-###### Par infusion avec cuve de 50L
+###### Asso Système B
 
 ### Avant de brasser
 - [ ] Choisir une recette
