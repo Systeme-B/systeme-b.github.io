@@ -1,6 +1,9 @@
 # Statuts de l'association Système B
 
 ---
+###### En complément des statuts, vous trouverez ici le [journal de décisions](./decisions.md)
+
+---
 
 ## Dénomination
 Système B
