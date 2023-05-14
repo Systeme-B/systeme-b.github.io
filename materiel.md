@@ -16,6 +16,7 @@
 #### Matériel
 - [ ] Réchaud puissant
 - [ ] Cuve de 50L
+- [ ] Cuve de 70L
 - [ ] Filtre de cuve
 - [ ] Fermenteur 60L
 - [ ] Concasseur
