@@ -1,1 +1,94 @@
-TODO : écrire la recette
+RECIPES:
+  RECIPE:
+    NAME: Électrochoc
+    TYPE: All Grain
+    STYLE:
+      NAME: American IPA
+      CATEGORY: IPA
+      CATEGORY_NUMBER: "21"
+      STYLE_LETTER: A
+      STYLE_GUIDE: BJCP 2015
+      TYPE: Ale
+      OG_MIN: "1.056"
+      OG_MAX: "1.07"
+      FG_MIN: "1.008"
+      FG_MAX: "1.014"
+      IBU_MIN: "40"
+      IBU_MAX: "70"
+      COLOR_MIN: "11"
+      COLOR_MAX: "27"
+      CARB_MIN: "2.4"
+      CARB_MAX: "2.9"
+      ABV_MIN: "5.5"
+      ABV_MAX: "7.5"
+      EXAMPLES: >-
+        Alpine Duet, Bell’s Two-Hearted Ale, Fat Heads Head Hunter IPA,
+        Firestone Walker Union Jack, Lagunitas IPA, Russian River Blind Pig IPA,
+        Stone IPA
+    VERSION: "1"
+    BATCH_SIZE: "56.0"
+    BOIL_SIZE: "64.0"
+    BOIL_TIME: "60"
+    EFFICIENCY: "72.0"
+    EST_OG: "1.06"
+    EST_FG: "1.014"
+    EST_COLOR: "11"
+    IBU: "38"
+    EST_ABV: "6.0"
+    NOTES: "Densité après rinçage : 1036.\r\nDensité après refroidissement : 1043"
+    FERMENTATION_STAGES: "1"
+    PRIMARY_AGE: "21"
+    PRIMARY_TEMP: "21.0"
+    CARBONATION: "2.2"
+    CARBONATION_TEMP: "18.0"
+    PRIMING_SUGAR_NAME: ""
+    FERMENTABLES:
+      FERMENTABLE:
+        DISPLAY_COLOR: 6 EBC
+        NAME: Malt Pale Ale
+        SUPPLIER: Weyermann
+        TYPE: Grain
+        AMOUNT: "15.0"
+        COLOR: "6"
+        YIELD: "82.2"
+    HOPS:
+      HOP:
+        - NAME: Magnum
+          AMOUNT: "0.075"
+          ALPHA: "12.0"
+          USE: Boil
+          TIME: "30"
+          FORM: Pellet
+        - NAME: Mt. Hood
+          AMOUNT: "0.03"
+          ALPHA: "6.0"
+          USE: Boil
+          TIME: "12"
+          FORM: Pellet
+        - NAME: Perle
+          AMOUNT: "0.075"
+          ALPHA: "8.0"
+          USE: Boil
+          TIME: "6"
+          FORM: Pellet
+    YEASTS:
+      YEAST:
+        NAME: Safale American
+        AMOUNT: "0.0115"
+        AMOUNT_IS_WEIGHT: "TRUE"
+        FORM: Dry
+        PRODUCT_ID: US-05
+        LABORATORY: Fermentis
+        ATTENUATION: "76.5"
+    MASH:
+      NAME: ""
+      NOTES: ""
+      PH: "5.4"
+      SPARGE_TEMP: "57.0"
+      MASH_STEPS:
+        MASH_STEP:
+          NAME: Saccharification
+          TYPE: Temperature
+          STEP_TIME: "60"
+          STEP_TEMP: "67"
+          WATER_GRAIN_RATIO: ""
