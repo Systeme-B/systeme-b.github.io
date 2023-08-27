@@ -1,6 +1,6 @@
 RECIPES:
   RECIPE:
-    NAME: Électrochoc
+    NAME: Electrochoc
     TYPE: All Grain
     STYLE:
       NAME: American IPA
@@ -37,7 +37,7 @@ RECIPES:
     EST_ABV: "6.0"
     NOTES: "Densité après rinçage : 1036.\r\nDensité après refroidissement : 1043"
     FERMENTATION_STAGES: "1"
-    PRIMARY_AGE: "21"
+    PRIMARY_AGE: "15"
     PRIMARY_TEMP: "21.0"
     CARBONATION: "2.2"
     CARBONATION_TEMP: "18.0"
