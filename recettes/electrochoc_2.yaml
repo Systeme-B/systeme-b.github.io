@@ -84,5 +84,5 @@ RECIPES:
           NAME: Saccharification
           TYPE: Temperature
           STEP_TIME: "60"
-          STEP_TEMP: "67"
+          STEP_TEMP: "65"
           WATER_GRAIN_RATIO: ""
