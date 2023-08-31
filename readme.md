@@ -16,6 +16,8 @@ Les statuts complet sont [disponibles ici](./statuts.md)
 
 Le journal de décisions est [ici](./decisions.md)
 
+Pour s'inscrire c'est [par ici](https://framaforms.org/adhesion-a-lassociation-1683795898)
+
 La liste du matériel est [ici](./materiel.md)
 
 La méthode de brassage est [ici](./brassage.md)
