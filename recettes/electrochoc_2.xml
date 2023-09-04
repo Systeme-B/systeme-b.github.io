@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RECIPES>
+    <RECIPE>
+        <NAME>Électrochoc 2</NAME>
+        <TYPE>All Grain</TYPE>
+        <STYLE>
+            <NAME>American IPA</NAME>
+            <CATEGORY>IPA</CATEGORY>
+            <CATEGORY_NUMBER>21</CATEGORY_NUMBER>
+            <STYLE_LETTER>A</STYLE_LETTER>
+            <STYLE_GUIDE>BJCP 2015</STYLE_GUIDE>
+            <TYPE>Ale</TYPE>
+            <OG_MIN>1.056</OG_MIN>
+            <OG_MAX>1.07</OG_MAX>
+            <FG_MIN>1.008</FG_MIN>
+            <FG_MAX>1.014</FG_MAX>
+            <IBU_MIN>40</IBU_MIN>
+            <IBU_MAX>70</IBU_MAX>
+            <COLOR_MIN>11</COLOR_MIN>
+            <COLOR_MAX>27</COLOR_MAX>
+            <CARB_MIN>2.4</CARB_MIN>
+            <CARB_MAX>2.9</CARB_MAX>
+            <ABV_MIN>5.5</ABV_MIN>
+            <ABV_MAX>7.5</ABV_MAX>
+            <EXAMPLES>Alpine Duet, Bell’s Two-Hearted Ale, Fat Heads Head Hunter IPA, Firestone Walker Union Jack, Lagunitas IPA, Russian River Blind Pig IPA, Stone IPA</EXAMPLES>
+        </STYLE>
+        <VERSION>1</VERSION>
+        <BATCH_SIZE>48.0</BATCH_SIZE>
+        <BOIL_SIZE>70.0</BOIL_SIZE>
+        <BOIL_TIME>40</BOIL_TIME>
+        <EFFICIENCY>72.0</EFFICIENCY>
+        <EST_OG>1.07</EST_OG>
+        <EST_FG>1.016</EST_FG>
+        <EST_COLOR>12</EST_COLOR>
+        <IBU>41</IBU>
+        <EST_ABV>7.1</EST_ABV>
+        <NOTES></NOTES>
+        <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
+        <PRIMARY_AGE>21</PRIMARY_AGE>
+        <PRIMARY_TEMP>21.0</PRIMARY_TEMP>
+        <CARBONATION>2.2</CARBONATION>
+        <CARBONATION_TEMP>18.0</CARBONATION_TEMP>
+        <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <DISPLAY_COLOR>6 EBC</DISPLAY_COLOR>
+                <NAME>Malt Pale Ale</NAME>
+                <SUPPLIER>Weyermann</SUPPLIER>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>15.0</AMOUNT>
+                <COLOR>6</COLOR>
+                <YIELD>82.2</YIELD>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <HOPS>
+            <HOP>
+                <NAME>Magnum</NAME>
+                <AMOUNT>0.05</AMOUNT>
+                <ALPHA>12.0</ALPHA>
+                <USE>Boil</USE>
+                <TIME>35</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+            <HOP>
+                <NAME>Perle</NAME>
+                <AMOUNT>0.08</AMOUNT>
+                <ALPHA>8.0</ALPHA>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>Pellet</FORM>
+            </HOP>
+        </HOPS>
+        <YEASTS>
+            <YEAST>
+                <NAME>Safale American</NAME>
+                <AMOUNT>0.023</AMOUNT>
+                <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+                <FORM>Dry</FORM>
+                <PRODUCT_ID>US-04</PRODUCT_ID>
+                <LABORATORY>Fermentis</LABORATORY>
+                <ATTENUATION>76.5</ATTENUATION>
+            </YEAST>
+        </YEASTS>
+        <MASH>
+            <NAME></NAME>
+            <NOTES>densité avant ébullition : 1040</NOTES>
+            <PH>5.4</PH>
+            <SPARGE_TEMP>60.0</SPARGE_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <NAME>Saccharification</NAME>
+                    <TYPE>Temperature</TYPE>
+                    <STEP_TIME>60</STEP_TIME>
+                    <STEP_TEMP>65</STEP_TEMP>
+                    <WATER_GRAIN_RATIO></WATER_GRAIN_RATIO>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+    </RECIPE>
+</RECIPES>
