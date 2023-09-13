@@ -29,7 +29,11 @@ github_username:  Systeme-B
 # Build settings
 theme: minima
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
+
+header_pages:
+  - statuts.md
+  - decisions.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

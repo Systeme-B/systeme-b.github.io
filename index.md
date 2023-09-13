@@ -2,8 +2,7 @@
 layout: home
 ---
 
-Système B est une association basée à Bègles qui regroupe des brasseurs amateurs et des amateurs de bière artisanale.
-L'objectif est de brasser et organiser des évènements (ateliers, etc) autour de la bière entre amis et amateurs.
+Système B est une association basée à Bègles dont l'objectif est de brasser et d'bunorganiser des évènements (ateliers, etc) autour de la bière entre amis et amateurs.
 
 Les statuts complet sont [disponibles ici](./statuts.md)
 

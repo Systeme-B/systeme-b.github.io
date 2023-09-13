@@ -51,5 +51,5 @@ Le Journal de Décisions consigne les décisions prises par les membres de l'ass
 Il a notamment pour fonction de définir ce qui ne l'est pas dans les présents statuts, comme par exemple les arrivées et départs de membres du Noyau.
 
 ---
+
 ###### En complément des statuts, vous trouverez ici [le journal de décisions](./decisions.md)
----
