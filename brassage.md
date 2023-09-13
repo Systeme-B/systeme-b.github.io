@@ -1,5 +1,8 @@
-# Etapes du brassage
-###### Asso Système B
+---
+title: Méthode de brassage
+layout: default
+published: false
+---
 
 ### Avant de brasser
 - [ ] Choisir une recette

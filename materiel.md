@@ -1,5 +1,8 @@
-# Matériel pour brasser
-###### Asso Système B
+---
+title: Matériel pour brasser
+layout: default
+published: false
+---
 
 ### Avant de brasser
 - [ ] Internet / Livre de recette

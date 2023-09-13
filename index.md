@@ -2,24 +2,11 @@
 layout: home
 ---
 
-Une association pour brasser et faire des évènements (ateliers, etc) autour de la bière entre amis et amateurs
-
-Produire et vendre de la bière artisanale, organiser des évènements locaux autour de ce thème.
-
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
- - Produire de la bière entre membres
- - Organiser des dégustations, visites de brasseries, ateliers pédagogiques entre autres
- - Sensibiliser les membres et le public au brassage artisanal et à la dégustation de bière
+Système B est une association basée à Bègles qui regroupe des brasseurs amateurs et des amateurs de bière artisanale.
+L'objectif est de brasser et organiser des évènements (ateliers, etc) autour de la bière entre amis et amateurs.
 
 Les statuts complet sont [disponibles ici](./statuts.md)
 
 Le journal de décisions est [ici](./decisions.md)
 
 Pour s'inscrire c'est [par ici](https://framaforms.org/adhesion-a-lassociation-1683795898)
-
-La liste du matériel est [ici](./materiel.md)
-
-La méthode de brassage est [ici](./brassage.md)

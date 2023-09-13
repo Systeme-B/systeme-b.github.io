@@ -1,8 +1,6 @@
-# Statuts de l'association Système B
-
 ---
-###### En complément des statuts, vous trouverez ici le [journal de décisions](./decisions.md)
-
+title: Statuts de l'association
+layout: default
 ---
 
 ## Dénomination
@@ -51,3 +49,7 @@ Vis à vis des tiers, chaque membre du Noyau est investi des pouvoirs nécessair
 Le Journal de Décisions consigne les décisions prises par les membres de l'association.
 
 Il a notamment pour fonction de définir ce qui ne l'est pas dans les présents statuts, comme par exemple les arrivées et départs de membres du Noyau.
+
+---
+###### En complément des statuts, vous trouverez ici [le journal de décisions](./decisions.md)
+---
