@@ -1,4 +1,6 @@
-# Association Système B
+---
+layout: home
+---
 
 Une association pour brasser et faire des évènements (ateliers, etc) autour de la bière entre amis et amateurs
 
