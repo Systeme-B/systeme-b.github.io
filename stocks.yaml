@@ -1,9 +1,19 @@
 houblons:
   - nom: Hallertau perle
-    poids: 129
+    poids: 44g
   - nom: Mount Hood
-    poids: 74
+    poids: 73g
   - nom: Magnum
-    poids: 400
+    poids: 350g
   - nom: Nugget
-    poids: 250
+    poids: 250g
+malts:
+  - nom: Pilsen
+    poids: 5kg
+  - nom: Pale ale
+    poids: 5kg
+levures:
+  - nom: SafeAle S04
+    poids: 450g
+chemipro:
+  poids: 500g
