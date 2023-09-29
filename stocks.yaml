@@ -11,7 +11,13 @@ malts:
   - nom: Pilsen
     poids: 30kg
   - nom: Pale ale
-    poids: 5kg
+    poids: 30kg
+  - nom: Blé
+    poids: 15kg
+  - nom: Carared
+    poids: 8kg
+  - nom: Munich
+    poids: 2kg
 levures:
   - nom: SafeAle S04
     poids: 450g

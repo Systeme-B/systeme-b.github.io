@@ -27,4 +27,4 @@ La version des statuts rédigée lors de la réunion devra être déclarée en p
 
 ---
 
-###### Journal de décisions de l'association Système B, vous trouverez ici [les statuts](./statuts.md)
+###### Fin du journal de décisions de l'association Système B, vous trouverez ici [les statuts](./statuts.md)
