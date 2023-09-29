@@ -9,7 +9,7 @@ houblons:
     poids: 250g
 malts:
   - nom: Pilsen
-    poids: 5kg
+    poids: 30kg
   - nom: Pale ale
     poids: 5kg
 levures:
