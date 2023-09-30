@@ -1,51 +1,54 @@
 ---
-title: Matériel pour brasser
+title: Matériel de l'association
 layout: default
-published: false
 ---
+# Le matériel de l'association
 
-### Avant de brasser
-- [ ] Internet / Livre de recette
-- [ ] Outils de calcul excel
-- [ ] Fiche de brassage
+Voici une liste détaillée des différentes étapes de production.
 
-### Le jour du brassage
-#### Ingrédients
-- [ ] Eau
-- [ ] Malt
-- [ ] Houblons
-- [ ] Levures
+## Avant de brasser
+- Internet / Livre de recette
+- Outils de calcul excel
+- Fiche de brassage
 
-#### Matériel
-- [ ] Réchaud puissant
-- [ ] Cuve de 50L
-- [ ] Cuve de 70L
-- [ ] Filtre de cuve
-- [ ] Fermenteur 60L
-- [ ] Concasseur
-- [ ] Echangeur à plaques
-- [ ] Long tuyau
-- [ ] Thermomètre
-- [ ] Fiche de brassage
-- [ ] Spatule
-- [ ] Grand pichet / Casserole
-- [ ] Balance
-- [ ] Balance de précision
-- [ ] Réfractomètre
+## Le jour du brassage
+### *Ingrédients*
+- Eau
+- Malt
+- Houblons
+- Levures
 
-### Houblonnage à froid (optionnel)
-#### Ingrédients
-- [ ] Houblons
+### *Matériel*
+- Réchaud puissant
+- Cuve de 50L
+- Cuve de 70L
+- Filtre de cuve
+- Fermenteur 60L
+- Concasseur
+- Echangeur à plaques
+- Long tuyau
+- Thermomètre
+- Fiche de brassage
+- Spatule
+- Grand pichet / Casserole
+- Balance
+- Balance de précision
+- Réfractomètre
 
-#### Matériel
-- [ ] Balance de précision
-- [ ] Récipient
+## Houblonnage à froid (optionnel)
+### *Ingrédients*
+- Houblons
 
-### Mise en bouteille
-#### Ingrédients
-- [ ] Sucre
-- [ ] Produit à stériliser
+### *Matériel*
+- Balance de précision
+- Récipient
 
-#### Matériel
-- [ ] Cuve de resucrage / fermenteur
-- [ ] Bouteilles
+## Mise en bouteille
+### *Ingrédients*
+- Sucre
+- Produit à stériliser
+
+### *Matériel*
+- Cuve de resucrage / fermenteur
+- Bouteilles
+- Robinet-siphon automatique

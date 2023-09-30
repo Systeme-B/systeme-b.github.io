@@ -1,6 +1,9 @@
 ---
-title: Journal de décision
+title: Journal de Décisions
 layout: default
+---
+# Journal de Décisions de l'association Système B
+
 ---
 
 ## Réunion du 29 mars 2023 - *Assemblée générale constitutive*
@@ -14,7 +17,9 @@ Il a été décidé à l'unanimité :
 Maxime s'occupe de déposer les statuts en préfecture.  
 Il est aussi décidé de prendre rendez-vous avec les douanes pour se conformer à la législation.
 
+
 ---
+
 
 ## Réunion du 31 août 2023 - *Modification des statuts*
 ##### Participants : Maxime et Charly

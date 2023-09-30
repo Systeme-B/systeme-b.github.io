@@ -1,7 +1,10 @@
 ---
-title: Statuts de l'association
+title: Statuts
 layout: default
 ---
+
+# Statuts de l'association Système B
+###### mis à jour le 31 août 2023
 
 ## Dénomination
 Système B
