@@ -1,6 +1,6 @@
 ---
 title: Fonctionnement
-layout: default
+layout: page
 ---
 
 # Le brassage associatif

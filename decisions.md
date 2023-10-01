@@ -1,6 +1,6 @@
 ---
 title: Journal de Décisions
-layout: default
+layout: page
 ---
 # Journal de Décisions de l'association Système B
 

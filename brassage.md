@@ -1,6 +1,6 @@
 ---
 title: Méthode de brassage
-layout: default
+layout: page
 ---
 
 # Les étapes du brassage

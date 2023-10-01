@@ -27,16 +27,22 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Systeme-B
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jemoji
 
 markdown: kramdown
 
 header_pages:
-  - fonctionnement.md
   - statuts.md
   - decisions.md
+
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

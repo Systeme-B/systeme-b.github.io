@@ -1,6 +1,6 @@
 ---
 title: Matériel de l'association
-layout: default
+layout: page
 ---
 # Le matériel de l'association
 

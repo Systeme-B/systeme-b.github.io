@@ -1,6 +1,6 @@
 ---
 title: L'Association
-layout: default
+layout: page
 ---
 
 - Des membres de l'association décident de brasser une recette de bière, ce sont les brasseurs
