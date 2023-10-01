@@ -5,20 +5,23 @@ layout: home
 
 # L'idée de départ
 
-Au départ on brassait notre propre bière.  
-Puis on l'a fait goûter autour de nous !  
+Au départ on brassait notre propre bière, puis on l'a fait goûter autour de nous !  
 
-Certains ont commencé à nous demander  
-:moneybag: *"On peut vous en acheter ?"* ou *"J'aimerai bien venir brasser avec vous !"* :beers:  
-A ce moment là, on s'est dit que l'idée n'était pas mauvaise... :thinking:
+Certains ont commencé à nous demander :
 
-Sauf que ... 
+> *"On peut en acheter  ?"* :moneybag:  
 
-Monter une brasserie, c'est long, c'est compliqué, bref c'est du boulot ! :tired_face:  
-Et on a pas envie d'en faire notre activité principale.  
-Du coup notre idée a été de voir comment aller au plus simple tout en respectant là loi !
+ou encore
 
-Aidés par un ami qui s'y connait dans les trucs légaux, on a décidé de monter [une association !](./statuts.md){:target="_blank"} :bulb:  
+> *"J'aimerai brasser avec vous !"* :beers:   
+
+On s'est dit qu'il y avait ptet un truc à faire, sauf que... :thinking:  
+
+Monter une brasserie, c'est long, c'est compliqué, c'est du boulot !  
+Et du boulot on en a déjà...  
+
+Comment faire simple, **tout en respectant la loi** (tant qu'à faire :sweat_smile:) ?  
+Après des tas de questionnement juridiques, on a décidé de créer **[une association !](./statuts.md){:target="_blank"}** :bulb:  
 
 # Comment ça fonctionne ?
 
@@ -29,7 +32,7 @@ En gros, les gens qui décident d'adhérer gratuitement à l'association peuvent
 En plus de ça, on pensait aussi que ça pourrait être sympa d'organiser des petits évènements autour de la bière, 
 comme par exemple des visites de brasseries ou de houblonières, des dégustations ou autres selon les envies.
 
-## On peut acheter des bières ?
+[Je veux des bières !](./financement.md){: .btn}
 
 L'association ne possède pas l'autorisation des douanes pour faire le commerce de bière.  
 Cependant, il est possible de co-financer la production de manière participative.  
@@ -37,15 +40,11 @@ La différence c'est qu'on finance le brassin ensemble plutôt que chacun achèt
 Mais au final, chaque personne qui a contribué (financièrement ou en brasant) reçoit des bières !  
 C'est un fonctionnement assez inhabituel donc on a fait une [page spécifique pour tout expliquer.](./financement.md){:target="_blank"}
 
-## Et si on veut brasser ?
+## On veut brasser !
 
 La première idée de l'association c'est de partager cette activité cool qu'est le brassage de bière, entre amis, et à moindre frais. 
 On est pas des pros mais on essaie de progresser ensemble et d'initier ceux qui le souhaitent !  
 Pour ça, on organise régulièrement des sessions pour brasser à 2, 3 ou 4 personnes maximum.  
 On a fait une [page spécifique pour expliquer tout ça](./fonctionnement.md){:target="_blank"}
-
-
-
-
 
 

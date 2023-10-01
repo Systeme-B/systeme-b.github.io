@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Système B
+title: 🍺 Système B
 email: biere@olibri.us
 description: >- # this means to ignore newlines until "baseurl:"
   Système B est une association de brassage amateur et participatif de bières
@@ -39,10 +39,6 @@ markdown: kramdown
 header_pages:
   - statuts.md
   - decisions.md
-
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
