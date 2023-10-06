@@ -6,12 +6,12 @@ houblons:
   - nom: Magnum
     poids: 350g
   - nom: Nugget
-    poids: 250g
+    poids: 76g
 malts:
   - nom: Pilsen
     poids: 30kg
   - nom: Pale ale
-    poids: 30kg
+    poids: 15kg
   - nom: Blé
     poids: 15kg
   - nom: Carared
@@ -22,4 +22,4 @@ levures:
   - nom: SafeAle S04
     poids: 450g
 chemipro:
-  poids: 500g
+  poids: 400g
