@@ -32,19 +32,5 @@ En gros, les gens qui décident d'adhérer gratuitement à l'association peuvent
 En plus de ça, on pensait aussi que ça pourrait être sympa d'organiser des petits évènements autour de la bière, 
 comme par exemple des visites de brasseries ou de houblonières, des dégustations ou autres selon les envies.
 
-[Je veux des bières !](./financement.md){: .btn}
-
-L'association ne possède pas l'autorisation des douanes pour faire le commerce de bière.  
-Cependant, il est possible de co-financer la production de manière participative.  
-La différence c'est qu'on finance le brassin ensemble plutôt que chacun achète ses bouteilles.  
-Mais au final, chaque personne qui a contribué (financièrement ou en brasant) reçoit des bières !  
-C'est un fonctionnement assez inhabituel donc on a fait une [page spécifique pour tout expliquer.](./financement.md){:target="_blank"}
-
-## On veut brasser !
-
-La première idée de l'association c'est de partager cette activité cool qu'est le brassage de bière, entre amis, et à moindre frais. 
-On est pas des pros mais on essaie de progresser ensemble et d'initier ceux qui le souhaitent !  
-Pour ça, on organise régulièrement des sessions pour brasser à 2, 3 ou 4 personnes maximum.  
-On a fait une [page spécifique pour expliquer tout ça](./fonctionnement.md){:target="_blank"}
-
+|[Je veux des bières !](./financement.md){: .btn .btn-default}|[Je veux brasser !](./fonctionnement.md){: .btn}|
 
