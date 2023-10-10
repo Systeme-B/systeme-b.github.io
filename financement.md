@@ -1,8 +1,9 @@
 ---
 title: Financement
+layout: base
 ---
 
-# Financement d'un brasssin
+# Financement d'un brassin
 
 L'association ne possède pas l'autorisation des douanes pour faire le commerce de bière.  
 Cependant, il est possible de co-financer la production de manière participative.  

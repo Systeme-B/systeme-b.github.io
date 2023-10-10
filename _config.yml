@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 🍺 Système B
+title: Association Système B
 email: biere@olibri.us
-description: >- # this means to ignore newlines until "baseurl:"
-  Système B est une association de brassage amateur et participatif de bières
+description: > # this means to ignore newlines until "baseurl:"
+  Collectif de brasseurs amateurs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://systeme-b.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Systeme-B
 
 # Build settings
@@ -31,15 +31,10 @@ github_username:  Systeme-B
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
   - jemoji
-markdown: kramdown
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "base"
+markdown: kramdown
 
 remote_theme: jekyll/minima
 
