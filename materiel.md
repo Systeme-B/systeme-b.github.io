@@ -1,6 +1,5 @@
 ---
 title: Matériel de l'association
-layout: page
 ---
 # Le matériel de l'association
 

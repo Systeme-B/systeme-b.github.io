@@ -1,6 +1,5 @@
 ---
 title: Financement
-layout: page
 ---
 
 # Financement d'un brasssin
@@ -9,7 +8,6 @@ L'association ne possède pas l'autorisation des douanes pour faire le commerce 
 Cependant, il est possible de co-financer la production de manière participative.  
 La différence c'est qu'on finance le brassin ensemble plutôt que chacun achète ses bouteilles.  
 Mais au final, chaque personne qui a contribué (financièrement ou en brasant) reçoit des bières !  
-C'est un fonctionnement assez inhabituel donc on a fait une [page spécifique pour tout expliquer.](./financement.md){:target="_blank"}
 
 - Des membres de l'association décident de brasser une recette de bière, ce sont les brasseurs
 - Ils contactent les autres membres pour vérifier la disponibilité du matériel

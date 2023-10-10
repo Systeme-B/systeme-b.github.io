@@ -1,6 +1,5 @@
 ---
 title: Méthode de brassage
-layout: page
 ---
 
 # Les étapes du brassage

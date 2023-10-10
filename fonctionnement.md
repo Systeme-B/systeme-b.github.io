@@ -1,6 +1,5 @@
 ---
 title: Fonctionnement
-layout: page
 ---
 
 # Le brassage associatif
@@ -8,7 +7,6 @@ layout: page
 La première idée de l'association c'est de partager cette activité cool qu'est le brassage de bière, entre amis, et à moindre frais.
 On est pas des pros mais on essaie de progresser ensemble et d'initier ceux qui le souhaitent !  
 Pour ça, on organise régulièrement des sessions pour brasser à 2, 3 ou 4 personnes maximum.  
-On a fait une [page spécifique pour expliquer tout ça](./fonctionnement.md){:target="_blank"}
 
 ## Qui peut brasser ?
 

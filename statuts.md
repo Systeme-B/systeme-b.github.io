@@ -1,6 +1,5 @@
 ---
 title: Statuts
-layout: page
 ---
 
 # Statuts de l'association Système B

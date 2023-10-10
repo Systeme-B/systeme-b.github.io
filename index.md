@@ -3,7 +3,9 @@ title: Système B - Association de brasseurs
 layout: home
 ---
 
-# L'idée de départ
+---
+
+## **L'idée de départ**
 
 Au départ on brassait notre propre bière, puis on l'a fait goûter autour de nous !  
 
@@ -23,7 +25,9 @@ Et du boulot on en a déjà...
 Comment faire simple, **tout en respectant la loi** (tant qu'à faire :sweat_smile:) ?  
 Après des tas de questionnement juridiques, on a décidé de créer **[une association !](./statuts.md){:target="_blank"}** :bulb:  
 
-# Comment ça fonctionne ?
+---
+
+## **Comment ça fonctionne ?**
 
 En gros, les gens qui décident d'adhérer gratuitement à l'association peuvent :
 - soit brasser de la bière à plusieurs avec le matériel de l'association

@@ -34,14 +34,23 @@ plugins:
   - jemoji
 markdown: kramdown
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base"
+
+remote_theme: jekyll/minima
+
 header_pages:
   - statuts.md
   - decisions.md
 
-remote_theme: jekyll/minima
-
 minima:
   skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/systeme-b" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
