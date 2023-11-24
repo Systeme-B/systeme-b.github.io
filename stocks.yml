@@ -1,9 +1,12 @@
 houblons:
   - nom: Hallertau perle
+    alpha: 8%
     poids: 44g
   - nom: Mount Hood
+    alpha: 6%
     poids: 73g
   - nom: Magnum
+    alpha: 12%
     poids: 350g
   - nom: Nugget
     poids: 76g
