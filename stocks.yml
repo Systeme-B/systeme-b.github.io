@@ -9,6 +9,7 @@ houblons:
     alpha: 12%
     poids: 350g
   - nom: Nugget
+    alpha: 12%
     poids: 76g
 malts:
   - nom: Pilsen
