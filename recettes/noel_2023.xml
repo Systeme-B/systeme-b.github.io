@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Noel 2023</NAME>
+    <TYPE>All Grain</TYPE>
+    <STYLE>
+      <NAME>Irish Red Ale</NAME>
+      <CATEGORY>Irish Beer</CATEGORY>
+      <CATEGORY_NUMBER>15</CATEGORY_NUMBER>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP 2015</STYLE_GUIDE>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.036</OG_MIN>
+      <OG_MAX>1.046</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.014</FG_MAX>
+      <IBU_MIN>18</IBU_MIN>
+      <IBU_MAX>28</IBU_MAX>
+      <COLOR_MIN>17</COLOR_MIN>
+      <COLOR_MAX>27</COLOR_MAX>
+      <CARB_MIN>2.4</CARB_MIN>
+      <CARB_MAX>2.8</CARB_MAX>
+      <ABV_MIN>3.8</ABV_MIN>
+      <ABV_MAX>5.0</ABV_MAX>
+      <EXAMPLES>Caffrey&#8217;s Irish Ale, Franciscan Well Rebel Red, Kilkenny Irish Beer, O&#8217;Hara&#8217;s Irish Red Ale, Porterhouse Red Ale, Samuel Adams Irish Red, Smithwick&#8217;s Irish Ale</EXAMPLES>
+    </STYLE>
+    <VERSION>1</VERSION>
+    <BATCH_SIZE>20.0</BATCH_SIZE>
+    <BOIL_SIZE>25.0</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>72.0</EFFICIENCY>
+    <EST_OG>1.157</EST_OG>
+    <EST_FG>1.039</EST_FG>
+    <EST_COLOR>42</EST_COLOR>
+    <IBU>30</IBU>
+    <EST_ABV>15.5</EST_ABV>
+    <NOTES></NOTES>
+    <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
+    <PRIMARY_AGE>21</PRIMARY_AGE>
+    <PRIMARY_TEMP>19.0</PRIMARY_TEMP>
+    <AGE>30</AGE>
+    <AGE_TEMP>18.0</AGE_TEMP>
+    <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <DISPLAY_COLOR>8 EBC</DISPLAY_COLOR>
+        <NAME>Malt Pale Ale</NAME>
+        <SUPPLIER></SUPPLIER>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>12.5</AMOUNT>
+        <COLOR>8</COLOR>
+        <YIELD>78.0</YIELD>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <DISPLAY_COLOR>50 EBC</DISPLAY_COLOR>
+        <NAME>Malt Carared</NAME>
+        <SUPPLIER></SUPPLIER>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>2.5</AMOUNT>
+        <COLOR>50</COLOR>
+        <YIELD>75.0</YIELD>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Mount hood</NAME>
+        <AMOUNT>0.073</AMOUNT>
+        <ALPHA>6.0</ALPHA>
+        <USE>Boil</USE>
+        <TIME>60</TIME>
+        <FORM>Leaf</FORM>
+      </HOP>
+      <HOP>
+        <NAME>Perle</NAME>
+        <AMOUNT>0.044</AMOUNT>
+        <ALPHA>8.0</ALPHA>
+        <USE>Boil</USE>
+        <TIME>8</TIME>
+        <FORM>Leaf</FORM>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <NAME>SafAle Ale</NAME>
+        <AMOUNT>0.023</AMOUNT>
+        <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+        <FORM>Dry</FORM>
+        <PRODUCT_ID>US-04</PRODUCT_ID>
+        <LABORATORY>DCL/Fermentis</LABORATORY>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MASH>
+      <NAME></NAME>
+      <NOTES></NOTES>
+      <PH>5.4</PH>
+      <SPARGE_TEMP>75.0</SPARGE_TEMP>
+      <MASH_STEPS>
+        <MASH_STEP>
+          <NAME>Saccharification</NAME>
+          <TYPE>Infusion</TYPE>
+          <INFUSE_AMOUNT>37.5</INFUSE_AMOUNT>
+          <INFUSE_TEMP>73.2</INFUSE_TEMP>
+          <STEP_TIME>60</STEP_TIME>
+          <STEP_TEMP>66</STEP_TEMP>
+          <WATER_GRAIN_RATIO></WATER_GRAIN_RATIO>
+        </MASH_STEP>
+      </MASH_STEPS>
+    </MASH>
+  </RECIPE>
+</RECIPES>
