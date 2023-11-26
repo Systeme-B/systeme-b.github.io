@@ -34,7 +34,12 @@
     <EST_COLOR>42</EST_COLOR>
     <IBU>30</IBU>
     <EST_ABV>15.5</EST_ABV>
-    <NOTES></NOTES>
+    <NOTES>
+      masse avant ebullition : 60kg  => environ 58L
+      densité avant ebullition: 1034
+      
+      
+    </NOTES>
     <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
     <PRIMARY_AGE>21</PRIMARY_AGE>
     <PRIMARY_TEMP>19.0</PRIMARY_TEMP>
