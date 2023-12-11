@@ -1,10 +1,4 @@
 houblons:
-  - nom: Hallertau perle
-    alpha: 8%
-    poids: 44g
-  - nom: Mount Hood
-    alpha: 6%
-    poids: 73g
   - nom: Magnum
     alpha: 12%
     poids: 350g
@@ -15,15 +9,15 @@ malts:
   - nom: Pilsen
     poids: 30kg
   - nom: Pale ale
-    poids: 15kg
+    poids: 2.5kg
   - nom: Blé
     poids: 15kg
   - nom: Carared
-    poids: 8kg
+    poids: 5.5kg
   - nom: Munich
     poids: 2kg
 levures:
   - nom: SafeAle S04
-    poids: 450g
+    poids: 425g
 chemipro:
-  poids: 400g
+  poids: 100g
