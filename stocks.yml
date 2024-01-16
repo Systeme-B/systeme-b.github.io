@@ -5,6 +5,10 @@ houblons:
   - nom: Nugget
     alpha: 12%
     poids: 76g
+  - nom: Cascade
+    poids: 1000g
+  - nom: Mount Hood
+    poids: 1000g
 malts:
   - nom: Pilsen
     poids: 30kg
@@ -19,5 +23,8 @@ malts:
 levures:
   - nom: SafeAle S04
     poids: 425g
-chemipro:
-  poids: 100g
+desinfectant:
+  - chemipro:
+    poids: 100g
+  - percarbonate_soude:
+    poids: 3kg
