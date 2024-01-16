@@ -1,14 +1,26 @@
 houblons:
   - nom: Magnum
-    alpha: 12%
     poids: 350g
-  - nom: Nugget
     alpha: 12%
+    format: pellets
+    vendeur: Rolling Beers
+  - nom: Nugget
     poids: 76g
+    alpha: 12%
+    format: pellets
+    vendeur: Rolling Beers
   - nom: Cascade
     poids: 1000g
+    alpha: 4.5%
+    beta: 5.8%
+    format: pellets
+    vendeur: Hopen
   - nom: Mount Hood
     poids: 1000g
+    alpha: 3.5%
+    beta: 4%
+    format: pellets
+    vendeur: Hopen
 malts:
   - nom: Pilsen
     poids: 30kg
@@ -27,4 +39,4 @@ desinfectant:
   - chemipro:
     poids: 100g
   - percarbonate_soude:
-    poids: 3kg
+    poids: 3000g
