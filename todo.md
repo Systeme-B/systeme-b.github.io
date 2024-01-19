@@ -1,5 +1,7 @@
 # Courses
-- [ ] Chemipro
+- [ ] Planche roulette
+- [ ] Capsules 26mm
+- [ ] Iode
 
 # Choses a améliorer
 
