@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Cascade IPA</NAME>
+    <TYPE>All Grain</TYPE>
+    <STYLE>
+      <NAME>Experimental Beer</NAME>
+      <CATEGORY>Specialty Beer</CATEGORY>
+      <CATEGORY_NUMBER>34</CATEGORY_NUMBER>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <STYLE_GUIDE>BJCP 2015</STYLE_GUIDE>
+      <TYPE>Mixed</TYPE>
+      <OG_MIN>1.02</OG_MIN>
+      <OG_MAX>1.09</OG_MAX>
+      <FG_MIN>1.006</FG_MIN>
+      <FG_MAX>1.016</FG_MAX>
+      <IBU_MIN>5</IBU_MIN>
+      <IBU_MAX>50</IBU_MAX>
+      <COLOR_MIN>3</COLOR_MIN>
+      <COLOR_MAX>98</COLOR_MAX>
+      <CARB_MIN>2.0</CARB_MIN>
+      <CARB_MAX>3.0</CARB_MAX>
+      <ABV_MIN>2.0</ABV_MIN>
+      <ABV_MAX>10.0</ABV_MAX>
+      <EXAMPLES>None listed.</EXAMPLES>
+    </STYLE>
+    <VERSION>1</VERSION>
+    <BATCH_SIZE>50.0</BATCH_SIZE>
+    <BOIL_SIZE>58.4</BOIL_SIZE>
+    <BOIL_TIME>30</BOIL_TIME>
+    <EFFICIENCY>72.0</EFFICIENCY>
+    <EST_OG>1.067</EST_OG>
+    <EST_FG>1.014</EST_FG>
+    <EST_COLOR>7</EST_COLOR>
+    <IBU>28</IBU>
+    <EST_ABV>7.0</EST_ABV>
+    <NOTES></NOTES>
+    <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+    <PRIMARY_AGE>7</PRIMARY_AGE>
+    <PRIMARY_TEMP>20.0</PRIMARY_TEMP>
+    <SECONDARY_AGE>10</SECONDARY_AGE>
+    <SECONDARY_TEMP>20.0</SECONDARY_TEMP>
+    <AGE>15</AGE>
+    <AGE_TEMP>20.0</AGE_TEMP>
+    <CARBONATION>2.0</CARBONATION>
+    <CARBONATION_TEMP>10.0</CARBONATION_TEMP>
+    <PRIMING_SUGAR_NAME></PRIMING_SUGAR_NAME>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <DISPLAY_COLOR>3 EBC</DISPLAY_COLOR>
+        <NAME>Malt Pilsner</NAME>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>13.5</AMOUNT>
+        <COLOR>3</COLOR>
+        <YIELD>82.2</YIELD>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <DISPLAY_COLOR>3 EBC</DISPLAY_COLOR>
+        <NAME>Flocons de Froment</NAME>
+        <SUPPLIER></SUPPLIER>
+        <TYPE>Grain</TYPE>
+        <AMOUNT>1.5</AMOUNT>
+        <COLOR>3</COLOR>
+        <YIELD>77.0</YIELD>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Magnum, New Zealand</NAME>
+        <AMOUNT>0.05</AMOUNT>
+        <ALPHA>12.0</ALPHA>
+        <USE>Boil</USE>
+        <TIME>35</TIME>
+        <FORM>Pellet</FORM>
+      </HOP>
+      <HOP>
+        <NAME>Cascade, New Zealand</NAME>
+        <AMOUNT>0.09</AMOUNT>
+        <ALPHA>7.0</ALPHA>
+        <USE>Aroma</USE>
+        <TIME>15</TIME>
+        <FORM>Pellet</FORM>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <NAME>SafAle English Ale</NAME>
+        <AMOUNT>0.023</AMOUNT>
+        <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+        <FORM>Dry</FORM>
+        <PRODUCT_ID>S-04</PRODUCT_ID>
+        <LABORATORY>DCL/Fermentis</LABORATORY>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MASH>
+      <NAME></NAME>
+      <NOTES></NOTES>
+      <PH>5.4</PH>
+      <SPARGE_TEMP>75.0</SPARGE_TEMP>
+      <MASH_STEPS>
+        <MASH_STEP>
+          <NAME>Empatage</NAME>
+          <TYPE>Infusion</TYPE>
+          <INFUSE_AMOUNT>45.0</INFUSE_AMOUNT>
+          <INFUSE_TEMP>69.7</INFUSE_TEMP>
+          <STEP_TIME>50</STEP_TIME>
+          <STEP_TEMP>64</STEP_TEMP>
+          <WATER_GRAIN_RATIO></WATER_GRAIN_RATIO>
+        </MASH_STEP>
+      </MASH_STEPS>
+    </MASH>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,9 @@
+lieux: Chez Charly - Villenave d'Ornon
+date: 26 novembre 2023
+participants: 2
+recette: ../recettes/cascade_ipa.xml
+volume:
+  mout: 56L
+  final: 44L
+densites:
+  finale: 1040
