@@ -1,6 +1,6 @@
 houblons:
   - nom: Magnum
-    poids: 350g
+    poids: 300g
     alpha: 12%
     format: pellets
     vendeur: Rolling Beers
@@ -10,7 +10,7 @@ houblons:
     format: pellets
     vendeur: Rolling Beers
   - nom: Cascade
-    poids: 1000g
+    poids: 910g
     alpha: 4.5%
     beta: 5.8%
     format: pellets
@@ -23,20 +23,18 @@ houblons:
     vendeur: Hopen
 malts:
   - nom: Pilsen
-    poids: 30kg
+    poids: 16.5kg
   - nom: Pale ale
     poids: 2.5kg
   - nom: Blé
-    poids: 15kg
+    poids: 13.5kg
   - nom: Carared
     poids: 5.5kg
   - nom: Munich
     poids: 2kg
 levures:
   - nom: SafeAle S04
-    poids: 425g
+    poids: 400g
 desinfectant:
-  - chemipro:
-    poids: 100g
   - percarbonate_soude:
-    poids: 3000g
+    poids: 1000g
