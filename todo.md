@@ -1,6 +1,7 @@
 # Courses
-- [ ] Planche roulette
-- [ ] Capsules 26mm
+
+- [ ] Planche à roulettes
+- [x] Capsules 26mm
 - [ ] Iode
 
 # Choses a améliorer
