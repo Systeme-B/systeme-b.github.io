@@ -4,23 +4,27 @@ houblons:
     alpha: 12%
     format: pellets
     vendeur: Rolling Beers
+    description: Amertume nette, saveurs subtiles d’agrumes
   - nom: Nugget
     poids: 76g
     alpha: 12%
     format: pellets
     vendeur: Rolling Beers
+    description: Amertume solide, saveur légère, arôme d'herbes
   - nom: Cascade
     poids: 910g
     alpha: 4.5%
     beta: 5.8%
     format: pellets
     vendeur: Hopen
+    description: Floral, Agrumes, Pamplemousse
   - nom: Mount Hood
     poids: 1000g
     alpha: 3.5%
     beta: 4%
     format: pellets
     vendeur: Hopen
+    description: Épice, Floral, Pin boisé
 malts:
   - nom: Pilsen
     poids: 16.5kg
