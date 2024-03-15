@@ -1,12 +1,15 @@
 # Courses
 
-- [ ] Planche à roulettes
+- [x] Planche à roulettes
 - [x] Capsules 26mm
-- [ ] Iode
+- [x] Iode
 
 # Choses a améliorer
 
 - [x] robinet sur la cuve electrique
-- [ ] douchette pour le rincage
+- [x] douchette pour le rincage
 - [ ] interpreteur de recettes XML
-- [ ] Chaussette pour le sterilisateur
+- [ ] Isolation sterilisateur (chaussette)
+- [ ] Réparer / racheter phmetre
+- [ ] Etalonner phmetre
+- [ ] Remplir bouteille de gaz
