@@ -3,6 +3,8 @@
 - [x] Planche à roulettes
 - [x] Capsules 26mm
 - [x] Iode
+- [ ] Remplir bouteille de gaz
+
 
 # Choses a améliorer
 
@@ -12,4 +14,3 @@
 - [ ] Isolation sterilisateur (chaussette)
 - [ ] Réparer / racheter phmetre
 - [ ] Etalonner phmetre
-- [ ] Remplir bouteille de gaz
