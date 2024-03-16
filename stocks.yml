@@ -12,7 +12,7 @@ houblons:
     vendeur: Rolling Beers
     description: Amertume solide, saveur légère, arôme d'herbes
   - nom: Cascade
-    poids: 910g
+    poids: 750g
     alpha: 4.5%
     beta: 5.8%
     format: pellets
@@ -29,9 +29,9 @@ malts:
   - nom: Pilsen
     poids: 16.5kg
   - nom: Pale ale
-    poids: 27.5kg
-  - nom: Blé
     poids: 13.5kg
+  - nom: Blé
+    poids: 12.5kg
   - nom: Carared
     poids: 5.5kg
   - nom: Munich
@@ -40,5 +40,5 @@ levures:
   - nom: SafeAle S04
     poids: 400g
 desinfectant:
-  - percarbonate_soude:
-    poids: 1000g
+  - nom: percarbonate_soude
+    poids: 900g
