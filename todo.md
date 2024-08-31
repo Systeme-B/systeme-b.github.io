@@ -1,5 +1,6 @@
 # Courses
-
+- [ ] Pompe imergée
+- [ ] Tuyau crystal 12x16
 
 
 # Choses a améliorer
