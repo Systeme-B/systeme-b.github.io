@@ -1,0 +1,5 @@
+content:
+  - label: Home page
+    path: index.md
+    name: homepage
+    type: file
